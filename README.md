@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @H3NDRIX69
 - 👀 I’m interested in hardware and some programming
 - 🌱 I’m currently learning PYTHON
-- 📫 How to reach me praxedesvinicius@gmail.com
+- 📫 How to reach me praxedesvinicius@gmail.com ; Discord> h3ndrix69; 
 - 😄 Pronouns: he/him
 
 <!---
