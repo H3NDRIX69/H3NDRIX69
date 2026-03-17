@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H3NDRIX69
 - 👀 I’m interested in hardware and some programming
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me praxedesvinicius@gmail.com ; Discord> h3ndrix69; 
 
 <!---
